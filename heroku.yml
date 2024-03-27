@@ -1,5 +1,5 @@
 build:
   docker:
-    Altron: Dockerfile
+    Strike: Dockerfile
 run:
-  Altron: python3 -m main.py
+  Strike: python3 -m main.py
