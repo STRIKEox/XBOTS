@@ -161,7 +161,7 @@ async def help_spam(event):
               buttons=[[Button.inline("< Back", data="help_back"),],],
               ) 
     else:
-        await event.answer("Make Your Own Altron Bots !! @PyXen", cache_time=0, alert=True)
+        await event.answer("Make Your Own Bot !! @STRIKE_OX", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"raid"))
