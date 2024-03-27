@@ -1,1 +1,1 @@
-TheAltron: python -m main.py
+FinalXStrike: python -m main.py
